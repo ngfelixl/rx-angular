@@ -299,10 +299,10 @@
     "@types/googlemaps" "^3.39.3"
     tslib "^2.0.0"
 
-"@angular/language-service@^10.1.1":
-  version "10.1.3"
-  resolved "https://registry.yarnpkg.com/@angular/language-service/-/language-service-10.1.3.tgz#0903579293fc897cd3ae0d047ffd4bc5968337f4"
-  integrity sha512-BdRlbmVC9frtvqMZ9kaxMlgm3OIypTuB1z3cRwJVCnvBVsWz6+QishTdSCvYI7USFNU5EwGH6dCBWwl53spBLw==
+"@angular/language-service@^11.2.2":
+  version "11.2.2"
+  resolved "https://registry.yarnpkg.com/@angular/language-service/-/language-service-11.2.2.tgz#5b96c4abe8a76d048f48320b40adb91e07682d35"
+  integrity sha512-H09s5pivJq8lip206NrNJ0cXLge9CfthtT3tY+OGXn5Xiyvjxs+dOkVytoGauHE3mdge/Wn/rxoGmm/oYKejNQ==
 
 "@angular/material@^10.2.2":
   version "10.2.2"
